@@ -13,7 +13,7 @@ output:
 
 # Let's add some links
 
-I often use [goole](google.com) to do data science. 
+I often use [goole](https://www.google.com) to do data science. 
 # (中括号内是网页名字,小括号内是网页地址)
 
 ![](WechatIMG62.jpeg) 
