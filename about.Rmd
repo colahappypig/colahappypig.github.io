@@ -5,5 +5,3 @@ output:
     toc: true
     toc_float: true
 ---
-
-[about](about.html)

@@ -4,7 +4,6 @@ output:
   html_document:
     toc: true
     toc_float: true
-    theme: cerulean
 ---
 
 # This is Jeff's awesome website
@@ -18,3 +17,5 @@ I often use [goole](https://www.google.com) to do data science.
 
 ![](WechatIMG62.jpeg) 
 #(如果我们把图片放到project目录下,用![]的格式可以在网页中添加图片,image为本地图片名)
+
+[about](about.html)
