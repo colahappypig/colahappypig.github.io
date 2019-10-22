@@ -4,6 +4,7 @@ output:
   html_document:
     toc: true
     toc_float: true
+    code_folding: hide
 ---
 
 My name is Ziyang and I am making _websit of graphic plot_!
