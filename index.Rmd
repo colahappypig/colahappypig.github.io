@@ -19,3 +19,4 @@ I often use [goole](https://www.google.com) to do data science.
 #(如果我们把图片放到project目录下,用![]的格式可以在网页中添加图片,image为本地图片名)
 
 [about](about.html)
+[about](plotly_sample.html)
